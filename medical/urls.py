@@ -22,3 +22,4 @@ urlpatterns = [
     path( "api/", include("clinica.urls"), ),
     path("api/farmacia/", include("farmacia.urls")),
 ]
+#LDKAJSLDFK
